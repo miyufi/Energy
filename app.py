@@ -17,4 +17,5 @@ st.text("\n")
 st.text("\n")
 st.text("\n")
 
-st.text("Refresh page or put 3 in the energy manually to reset")
+st.write("Refresh page or put 3 in the energy manually to reset")
+st.write("Source code: [Github](https://github.com/miyufi/Energy)")
