@@ -17,5 +17,6 @@ st.text("\n")
 st.text("\n")
 st.text("\n")
 
+st.image('./images/axie-class.png', width = None)
 st.write("Refresh page or put 3 in the energy manually to reset")
 st.write("Source code: [Github](https://github.com/miyufi/Energy)")
